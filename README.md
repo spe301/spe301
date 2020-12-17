@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wikipedia Protection with nlp](https://github.com/spe301/Wikipedia-Capstone/blob/main/README.md)
 
-- 🌱 I’m currently learning **NLP, Deep Learning**
+- 🌱 I’m currently learning **NLP and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spe301?tab=repositories](https://github.com/spe301?tab=repositories)
 
