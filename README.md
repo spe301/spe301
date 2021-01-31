@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on [Wikipedia Protection with nlp](https://github.com/spe301/Wikipedia-Capstone/blob/main/README.md)
+- 🔭 I’m currently working on [AI generated AI](https://github.com/spe301/AI-generated-AI/blob/main/README)
 
 - 🌱 I’m currently learning **NLP and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spe301?tab=repositories](https://github.com/spe301?tab=repositories)
 
-- 📝 I regularly write articles on [https://aacjpw.wixsite.com/website-1](https://aacjpw.wixsite.com/website-1)
+- 📝 I regularly write articles on [Medium](https://spencerholley.medium.com/)
 
 - 💬 Ask me about **Machine Learning, OOP with Python**
 
