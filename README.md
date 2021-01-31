@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
-<h3 align="center">An aspiring Data Scientist</h3>
+<h3 align="center">Data Scientist and Python Programmer</h3>
 
 - 🔭 I’m currently working on [AI generated AI](https://github.com/spe301/AI-generated-AI/blob/main/README)
 
