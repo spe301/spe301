@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AI generated AI](https://github.com/spe301/AI-generated-AI/blob/main/README)
 
-- 🌱 I’m currently learning **NLP and Deep Learning**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spe301?tab=repositories](https://github.com/spe301?tab=repositories)
 
