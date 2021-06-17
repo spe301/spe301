@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a comprehensive blog about how to get into Data Science
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **How to be a Data Collecting Superhero**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spe301?tab=repositories](https://github.com/spe301?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://spencerholley.medium.com/)
 
-- 💬 Ask me about **Machine Learning, OOP with Python**
+- 💬 Ask me about **Python Tutoring**
 
 - 📫 How to reach me **aacjpw@gmail.com**
 
