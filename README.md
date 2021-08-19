@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/spencer-holley/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="spencer holley" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcI5bDVdDt9oz6KyQnXTBww" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="spencer holley" height="30" width="40" /></a>
 <a href="https://medium.com/@spencerholley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@spencerholley" height="30" width="40" /></a>
 </p>
