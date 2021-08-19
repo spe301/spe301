@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
-<h3 align="center">Programmer With knowledge in Machine Learning</h3>
+<h3 align="center">Data Science Tutor and Sales Scientist Product Owner</h3>
 
-- 🔭 I’m currently working on a comprehensive blog about how to get into Data Science
+- 🔭 I’m currently working on "Sales Scientist" a work product that evaluates leads for a sales team at a SAAS company.
 
 - 🌱 I’m currently learning **How to be a Data Collecting Superhero**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Medium](https://spencerholley.medium.com/)
 
-- 💬 Ask me about **Python Tutoring**
+- 💬 Ask me about **Data Science Tutoring**
 
 - 📫 How to reach me **aacjpw@gmail.com**
 
